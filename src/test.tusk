@@ -1,0 +1,21 @@
+-- this is a comment
+num := (1 + 1) + (1 * 2);
+1;
+-1;
+flt := 1.1111;
+1 + 1;
+name := "Tristan";
+warning := "Warning: This is a message!?!$%^&(&*^%$##";
+put(1 + 1);
+put(name);
+put(warning);
+put("Welcome " + name);
+put("You're coding with Tusk!");
+put(num);
+put(num / 5);
+hungry := True;
+put(hungry);
+put(flt);
+put(-1 * -2);
+put(-1 * 2);
+peak();

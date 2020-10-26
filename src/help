@@ -1,0 +1,23 @@
+TUSKi :: v0.0.2
+---------------
+Thank you for choosing TUSKi! :)
+If you would like to contribute to this interpreter, find us on Github: https://github.com/tristandamron
+
+Learn mode about the TUSK language over at http://www.tusklang.com
+
+(Commands)
+|
+|
+ \_____________> :q => Quit the interpreter session
+|
+|
+ \_____________> :h => Show the help screen
+|
+|
+ \_____________> :c => Clear the screen
+|
+|
+ \_____________> :l <filename> => Load a module (.tusk) into the session
+|
+|
+ \_____________> :i <function name> => Show the pattern of a function
